@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/asabe041.github.io/static/css/main.2228fa9b.chunk.css",
+    "main.js": "/asabe041.github.io/static/js/main.26037305.chunk.js",
+    "main.js.map": "/asabe041.github.io/static/js/main.26037305.chunk.js.map",
+    "runtime-main.js": "/asabe041.github.io/static/js/runtime-main.e81dfc17.js",
+    "runtime-main.js.map": "/asabe041.github.io/static/js/runtime-main.e81dfc17.js.map",
+    "static/js/2.aee4e8e2.chunk.js": "/asabe041.github.io/static/js/2.aee4e8e2.chunk.js",
+    "static/js/2.aee4e8e2.chunk.js.map": "/asabe041.github.io/static/js/2.aee4e8e2.chunk.js.map",
+    "index.html": "/asabe041.github.io/index.html",
+    "precache-manifest.6519da714ce2705c34cfe25ecb0920d5.js": "/asabe041.github.io/precache-manifest.6519da714ce2705c34cfe25ecb0920d5.js",
+    "service-worker.js": "/asabe041.github.io/service-worker.js",
+    "static/css/main.2228fa9b.chunk.css.map": "/asabe041.github.io/static/css/main.2228fa9b.chunk.css.map",
+    "static/js/2.aee4e8e2.chunk.js.LICENSE.txt": "/asabe041.github.io/static/js/2.aee4e8e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e81dfc17.js",
+    "static/js/2.aee4e8e2.chunk.js",
+    "static/css/main.2228fa9b.chunk.css",
+    "static/js/main.26037305.chunk.js"
+  ]
+}
